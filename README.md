@@ -1,5 +1,9 @@
 # Aprendiendo Rust
 
+## Referencia: 
+
+[Rust Language Book - Second Edition](https://doc.rust-lang.org/book/second-edition/)
+
 ## Compilar script
 
 `rustc main.rs`
