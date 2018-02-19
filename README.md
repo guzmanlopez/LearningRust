@@ -1,6 +1,6 @@
 # Aprendiendo Rust
 
-## Referencia: 
+## Referencia:
 
 [Rust Language Book - Second Edition](https://doc.rust-lang.org/book/second-edition/)
 
