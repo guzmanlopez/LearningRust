@@ -1,6 +1,6 @@
 # Aprendiendo Rust
 
-## Referencia:
+## Referencia
 
 [Rust Language Book - Second Edition](https://doc.rust-lang.org/book/second-edition/)
 
@@ -32,3 +32,11 @@ Crea ejecutable en target/release
 
 Para debug: `cargo run`
 Para release: `cargo run --release`
+
+## Actualizar
+
+`cargo update`
+
+## Docs
+
+`cargo doc --open`
